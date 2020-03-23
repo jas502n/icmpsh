@@ -1,4 +1,4 @@
-![](./icms.gif)
+![](./icmpsh.gif)
 
 ## Background
 
